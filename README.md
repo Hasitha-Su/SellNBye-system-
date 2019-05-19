@@ -1,6 +1,6 @@
 # SellNBye-system-
 
-This project is complted using node js and mongodb. 
+This project is completed using node js and mongodb. 
 open the project with a  suitable IDE and in termina use command "npm install" and then npm start
 database connection will be established.
 now postman or suitable tool can be used for api requesting
