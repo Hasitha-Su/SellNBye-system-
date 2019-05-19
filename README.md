@@ -7,6 +7,10 @@ now postman or suitable tool can be used for api requesting
 
 following is api documentation for each function
 
+clickable link if necessary
+
+https://drive.google.com/open?id=17iY2ISEtAn0o_POLnMq4w56N_uE4UBix
+
 API Documentation
 
 Buyer :
