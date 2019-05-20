@@ -9,7 +9,17 @@ following is api documentation for each function
 
 clickable link if necessary
 
+SINCE WE ARE USING AN ONLINE DATABASE THERE SHOULD BE AN INTERNET CONNECTIONN TO CONNECTOTO DATABASE
+
 https://drive.google.com/open?id=17iY2ISEtAn0o_POLnMq4w56N_uE4UBix
+
+
+
+
+
+
+
+
 
 API Documentation
 
